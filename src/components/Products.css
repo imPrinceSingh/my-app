@@ -1,0 +1,51 @@
+.movie{
+    background-color: rgb(172, 164, 164); 
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 15rem;
+    margin-bottom: 20px;
+    padding: 5px;
+    font-weight: bold;
+}
+.img{
+   width: 14rem;
+   height: 12rem;
+}
+.sec{
+    text-align: left;
+    color: #243763;
+    text-decoration: none;
+}
+p{
+    margin: 0px;
+}
+.prodetails{
+    margin-top: 50px;
+   display: flex;
+   justify-content: space-around;
+}
+.photos{
+    display: flex;
+    border-style: groove;
+    background-color: aliceblue;
+    height: 400px;
+    
+}
+.details{
+    display: inline-block;
+    border-style: groove;
+    background-color: aliceblue;
+    height: 350px;
+    width: 600px;
+    padding-left: 50px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    width: 20rem;
+    height: 24rem;
+ }
+

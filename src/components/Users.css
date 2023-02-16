@@ -1,0 +1,11 @@
+.map{
+    border-style: dashed;
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+}
+.users{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

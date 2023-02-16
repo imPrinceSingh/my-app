@@ -1,0 +1,14 @@
+[
+    { "name": "Ironman", "year": 2002, "type": "fantacy" },
+    { "name": "Spiderman", "year": 2000, "type": "sci-fi" },
+    { "name": "Antman", "year": 2003, "type": "action" },
+    { "name": "Hulk", "year": 2005, "type": "sci-fi" },
+    { "name": "Thor", "year": 2007, "type": "fantacy" },
+    { "name": "Dr. Strange", "year": 2006, "type": "action" },
+    { "name": "Avengers", "year": 2001, "type": "sci-fi" },
+    { "name": "Black Panther", "year": 2010, "type": "fantacy" },
+    { "name": "Hawkeye", "year": 2013, "type": "action" },
+    { "name": "Lokei", "year": 2015, "type": "drama" },
+    { "name": "Hawkeye", "year": 2013, "type": "action" },
+    { "name": "Loki", "year": 2015, "type": "drama" }
+]
